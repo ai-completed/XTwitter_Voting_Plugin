@@ -1,0 +1,1 @@
+Administrative sidebars for election management.
